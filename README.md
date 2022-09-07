@@ -44,3 +44,16 @@ The below table shows the city, important location and the amount of time to spe
 
 *Stephen King*
 
+---
+# Code Fencing
+> How to pre-populate the sms body text via an html link
+
+[stackoverflow](https://stackoverflow.com/questions/6480462/how-to-pre-populate-the-sms-body-text-via-an-html-link)
+
+```
+<a href="tel:1-408-555-5555">1-408-555-5555</a>
+<a href="sms:1-408-555-1212">New SMS Message</a>
+
+[Snippet Source](https://css-tricks.com/snippets/html/iphone-calling-and-texting-links/)
+
+
