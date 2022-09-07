@@ -53,6 +53,7 @@ The below table shows the city, important location and the amount of time to spe
 ```
 <a href="tel:1-408-555-5555">1-408-555-5555</a>
 <a href="sms:1-408-555-1212">New SMS Message</a>
+```
 
 [Snippet Source](https://css-tricks.com/snippets/html/iphone-calling-and-texting-links/)
 
