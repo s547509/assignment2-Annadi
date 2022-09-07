@@ -34,3 +34,13 @@ The below table shows the city, important location and the amount of time to spe
 | Maharashtra | Ellora Caves | 1 hour |
 | Hyderabad | Golconda Fort | 5 hours |
 
+---
+# Pithy Quotes
+> Nobody reaches anywhere by believing.
+
+*Osho*
+
+> Be curious, not judgemental. 
+
+*Stephen King*
+
